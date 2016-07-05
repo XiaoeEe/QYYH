@@ -1,0 +1,15 @@
+itemGroup.tabTheBuilderBlocks=Builder Blocks
+itemGroup.tabTheBuilderItems=Builder Items
+
+tile.blockA.name=Block α
+tile.blockTileModel.name=tile model
+tile.smallRedBrick.name=small red brick
+
+item.builderMager.name=builder mager
+item.quartzPowder.name=quartz powder
+item.sandPowder.name=powder
+
+commands.set.usage=/set blockID [model]
+commands.msg.NoReady=This is not Ready,please set one form left hit.
+commands.msg.NoBlock=block error.
+commands.msg.NoMode=has no this model.
